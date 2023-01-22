@@ -3,7 +3,7 @@
   <br>
   <!-- <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a> -->
   <br>
-  Screen Detector per Asset
+  Screen Detector for Window
   <br>
 </h1>
 
@@ -15,7 +15,7 @@
 <!-- ![screenshot](https://github.com/zainuddin-maker/Double-Y-Bar-With-Line-Chart-/blob/master/test.gif?raw=true) -->
 
 
-This application is used to detect the size of the assets that are on the page that this application is installed on .
+This application is used to detect the size of the window that are on the page that this application is installed on .
 
 <!-- ## Example Data
 - Data Value
@@ -76,7 +76,8 @@ This application is used to detect the size of the assets that are on the page t
 
 
 
-This application will issue a data list of each asset along with its height and width, this data can be used to adjust the appearance of each asset against other assets.
+
+This application will output the height and width of the window page , this can be used to accurately set the responsive display for the application.
 
 
 
