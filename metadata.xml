@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+    <ExtensionPackages>
+        <ExtensionPackage dependsOn="" description="" minimumThingWorxVersion="8.3.0" name="ScreenDetector" packageVersion="1.0.5" vendor="IoT Centre Lab"></ExtensionPackage>
+    </ExtensionPackages>
+    <Widgets>
+        <Widget name="ScreenDetector">
+            <UIResources>
+                <FileResource description="" file="ScreenDetector.ide.js" isDevelopment="true" isRuntime="false" type="JS" />
+                <FileResource description="" file="ScreenDetector.ide.css" isDevelopment="true" isRuntime="false" type="CSS" />
+                <FileResource description="" file="ScreenDetector.runtime.js" isDevelopment="false" isRuntime="true" type="JS" />
+                <FileResource description="" file="ScreenDetector.runtime.css" isDevelopment="false" isRuntime="true" type="CSS" />
+            </UIResources>
+        </Widget>
+    </Widgets>
+</Entities>
